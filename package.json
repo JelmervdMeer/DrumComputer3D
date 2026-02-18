@@ -4,5 +4,10 @@
   },
   "dependencies": {
     "three": "^0.180.0"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   }
+
 }
