@@ -207,11 +207,11 @@
       });
     }
   }
-})({"ipn4N":[function(require,module,exports,__globalThis) {
+})({"35ecl":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
-var HMR_SERVER_PORT = 1234;
+var HMR_SERVER_PORT = 62514;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
@@ -57156,6 +57156,6 @@ module.exports = module.bundle.resolve("floortom3.da39d457.wav") + "?" + Date.no
 },{}],"82YbT":[function(require,module,exports,__globalThis) {
 module.exports = module.bundle.resolve("drummachine3.99d3efc6.glb") + "?" + Date.now();
 
-},{}]},["ipn4N","dgG0c"], "dgG0c", "parcelRequire94c2", {}, "./", "/")
+},{}]},["35ecl","dgG0c"], "dgG0c", "parcelRequire94c2", {}, "./", "/")
 
 //# sourceMappingURL=DrumComputer3D.4a021b95.js.map

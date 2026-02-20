@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "parcel": "^2.16.0"
+    "parcel": "^2.16.4"
   },
   "dependencies": {
     "three": "^0.180.0"
@@ -9,5 +9,4 @@
     "start": "parcel index.html",
     "build": "parcel build index.html"
   }
-
 }
